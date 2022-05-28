@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @maryammoshtoofar
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning Frontend React
 - 📫 How to reach me maryammoshtoofar@gmail.com
 
 <!---
