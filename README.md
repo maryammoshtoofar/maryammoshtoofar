@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maryammoshtoofar
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Frontend React
+- 👀 I’m a Front-End Developer (React)
+- 🌱 I’m currently learning Typescript
 - 📫 How to reach me maryammoshtoofar@gmail.com
 
 <!---
