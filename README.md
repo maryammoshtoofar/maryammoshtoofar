@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maryammoshtoofar
 - 👀 I’m a Front-End Developer (React)
-- 🌱 I’m currently learning Ethers.js
+- 🌱 I’m currently learning Web3.js
 - 📫 How to reach me maryammoshtoofar@gmail.com
 
 
