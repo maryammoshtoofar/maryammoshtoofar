@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maryammoshtoofar
-- 👀 I’m a Front-End Developer (React, Next)
-- 🌱 I’m currently learning Web3.js and ethers.js
+- 👀 I’m a Front-End Developer (React, web3.js)
+- 🌱 I’m currently learning Next and Typescript
 - 📫 How to reach me maryammoshtoofar@gmail.com
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maryammoshtoofar&layout=compact&theme=radical)](https://github.com/maryammoshtoofar)
