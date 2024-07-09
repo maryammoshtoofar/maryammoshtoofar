@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maryammoshtoofar
-- 👀 I’m a Front-End Developer (React, web3.js)
-- 🌱 I’m currently learning Next and Typescript
+- 👀 I’m a Full Stack Developer (Next , Nodejs)
+- 🌱 I’m currently learning Vue.js
 - 📫 How to reach me maryammoshtoofar@gmail.com
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maryammoshtoofar&layout=compact&theme=radical)](https://github.com/maryammoshtoofar)
