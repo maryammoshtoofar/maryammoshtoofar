@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @maryammoshtoofar
-- 👀 I’m a Full Stack Developer (Next , Nodejs)
+- 👀 I’m a Full Stack Developer (Next , Nodejs, MongoDB)
 - 🌱 I’m currently learning Vue.js
 - 📫 How to reach me maryammoshtoofar@gmail.com
 
