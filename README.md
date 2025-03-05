@@ -1,7 +1,7 @@
 
  ## ![maryammoshtoofar's Stats](https://github-readme-stats.vercel.app/api?username=maryammoshtoofar&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 - 👋 Hi, I’m @maryammoshtoofar
-- 👀 I’m a Full Stack Developer (Javascript, Next, Nodejs, MongoDB , web3) and a Bootcamp Mentor
+- 👀 I’m a Full Stack Developer (TypeScript, React, Next, Nodejs, MongoDB , web3) and a Bootcamp Mentor
 - 🌱 I’m currently learning C#
 - 📫 How to reach me maryammoshtoofar@gmail.com
 ##
